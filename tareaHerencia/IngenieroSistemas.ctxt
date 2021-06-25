@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=IngenieroSistemas
+comment1.params=nombre\ nombreU\ numCelular\ lengProgFav
+comment1.target=IngenieroSistemas(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ mostrarProgramaFav()
+comment3.params=
+comment3.target=java.lang.String\ indicarUniversidad()
+numComments=4

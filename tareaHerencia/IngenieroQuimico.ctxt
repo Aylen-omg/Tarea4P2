@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=IngenieroQuimico
+comment1.params=nombre\ nombreU\ numCelular\ nombreIndustria
+comment1.target=IngenieroQuimico(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ indicarIndustria()
+comment3.params=
+comment3.target=java.lang.String\ indicarUniversidad()
+numComments=4
