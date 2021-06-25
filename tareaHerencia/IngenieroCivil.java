@@ -18,7 +18,7 @@ public class IngenieroCivil extends Ingeniero
         String resp = " ";
         if(numConstrucciones==1){
             resp = "Hice una construcción"; 
-        } else if(numConstrucciones>=1){
+        } else if(numConstrucciones>1){
             resp = "Hice " + numConstrucciones + " construcciones";  
 
         }
