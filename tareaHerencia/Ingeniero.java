@@ -12,7 +12,7 @@ public class Ingeniero
     }
 
     public String presentarse(){
-        return "Me llamo "+ nombre;
+        return "Me llamo " + nombre;
     }
 
     public String indicarUniversidad(){
